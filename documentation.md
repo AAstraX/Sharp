@@ -3,7 +3,7 @@
 
 ## Boot The Library
 ```
-local Sharplib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/AAstraX/SharpUI-Library/Scripts/MainSource.Lua')))()
+local Sharplib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/AAstraX/SharpUI-Library/Scripts/Source.Lua')))()
 ```
 
 
