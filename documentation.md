@@ -64,6 +64,7 @@ PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
 ## CREATE A SECTION
 
 
+```
 local Section = Tab:AddSection({
 
 	Name = "Section"
