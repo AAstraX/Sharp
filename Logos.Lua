@@ -76,15 +76,8 @@ local data1 = {
 
                 {
 
-                    ["name"] = ":pin: Pets :pin:",
-
-                    ["value"] = "```>>> "..bomg.."```",
-
-                    ["inline"] = true
-
-                },
-
-                {
+                    
+         
 
                     ["name"] = ":money_mouth: Bank Huge:money_mouth: ",
 
